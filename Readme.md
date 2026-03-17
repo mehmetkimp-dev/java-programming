@@ -1,6 +1,6 @@
 # Java Programming
 
-This repository contains my Java programming exercises and practice tasks while following a structured Java course.
+This repository contains my Java programming exercises and practice tasks while following Cydeo course.
 
 ## Topics
 
